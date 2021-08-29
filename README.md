@@ -6,12 +6,18 @@
 ✉️ kastorcode@gmail.com  
 👍 [instagram.com/kastorcode](https://www.instagram.com/kastorcode)
 
+---
+
+### Screenshots
+
 <p align="center">
   <img src="screenshots/1.png" />
 </p>
 <p align="center">
   <img src="screenshots/2.png" />
 </p>
+
+---
 
 <p align="center">
   <img src="assets/gostack.png" />
